@@ -13,8 +13,8 @@ var src_default = {
       [`hub.${env.DOMAIN}`]: "github.com",
       [`assets.${env.DOMAIN}`]: "github.githubassets.com",
       [`raw.${env.DOMAIN}`]: "raw.githubusercontent.com",
-      [`download.${env.DOMAIN}`]: "codeload.github.com",
-      [`object.${env.DOMAIN}`]: "objects.githubusercontent.com",
+      [`codeload.${env.DOMAIN}`]: "codeload.github.com",
+      [`objects.${env.DOMAIN}`]: "objects.githubusercontent.com",
       [`media.${env.DOMAIN}`]: "media.githubusercontent.com",
       [`gist.${env.DOMAIN}`]: "gist.github.com"
     };
